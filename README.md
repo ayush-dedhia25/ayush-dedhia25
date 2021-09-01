@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayush Dedhia 👋
 
-## I'm a Student, Worker, Teacher and a Learner!!
+## I'm a Student and Learner!!
 
 - 🔭 I started my journey to programming back in year 2018!
 - 🌱 I’m currently learning everything 🤣
