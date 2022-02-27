@@ -5,7 +5,7 @@
 - 🔭 I started my journey to programming back in year 2018!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I started programming with my first and most loved language Javascript Js.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I've also worked on popular languages frameworks like Django, Flask, Node.js
 
 ### Connect with me:
